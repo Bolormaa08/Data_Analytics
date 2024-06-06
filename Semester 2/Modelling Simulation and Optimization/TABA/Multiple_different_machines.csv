@@ -1,0 +1,5 @@
+Job Number,Machine Number,Greedy Algorithm,Genetic Algorithm
+10,4,"{'Average Execution Time': 0.00034775733947753904, 'Processing Time': 74.0}","{'Average Execution Time': 1.9199445009231568, 'Processing Time': 71.0}"
+20,4,"{'Average Execution Time': 0.0007091760635375977, 'Processing Time': 137.0}","{'Average Execution Time': 2.0474644899368286, 'Processing Time': 129.0}"
+50,4,"{'Average Execution Time': 0.0025720119476318358, 'Processing Time': 304.0}","{'Average Execution Time': 4.222219800949096, 'Processing Time': 295.4}"
+100,4,"{'Average Execution Time': 0.010625839233398438, 'Processing Time': 580.0}","{'Average Execution Time': 7.9129797458648685, 'Processing Time': 572.3}"

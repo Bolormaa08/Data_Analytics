@@ -1,0 +1,2 @@
+Best warehouse location: (5680, 3440)
+Cost for the best warehouse location: 8078.22608
